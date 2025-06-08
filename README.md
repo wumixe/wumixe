@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello!
 
-<!--
-**wumixe/wumixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tristan, also known as Wumixe online.
 
-Here are some ideas to get you started:
+I am wanting to learn software development, which is why I
+am here on GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to contribute to open-source software and eventually
+make software of my own.
+
+I am a Linux user; [I](https://www.debian.org/) [have](https://linuxmint.com) 
+[been](https://fedoraproject.org) [hopping](https://archlinux.org) 
+[between](https://www.opensuse.org/) [distributions](https://voidlinux.org)
+for a while now.
+
+In my spare time, I enjoy swimming and playing video games. 
+
+Some of my favorites are Minecraft and Team Fortress 2.
